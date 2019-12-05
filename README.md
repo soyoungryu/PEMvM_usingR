@@ -1,4 +1,4 @@
-# PEMvM_usingR
+# PEMvM
 Penalized EM algorithm for varying missing data mechanisms
 
 ## Developer
